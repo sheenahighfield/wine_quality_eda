@@ -70,4 +70,4 @@ The following plots and files are saved in the outputs folder:
 ### About
 
 This is my beginner project in data analysis.
-The aim was to learn how to structure an EDA, generate insights and to keep the analysis organized and easy to understand.
+The aim was to learn how to structure an EDA, generate insights and also to keep the analysis organized and easy to understand.
